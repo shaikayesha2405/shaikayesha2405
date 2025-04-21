@@ -5,7 +5,7 @@
 - 🔭 I’m working on **HelioTrackers - A solar panel tracking system**
 - 👯 I’m collaborating on **IoT + AI/ML-based projects**
 - 💬 Ask me about **Flutter, FastAPI, Firebase, ThingSpeak, Python**
-- 📫 How to reach me: **shaikayesha2405@gmail.com**
+- 📫 How to reach me: **22eg105d51@anurag.edu.in**
 
 ---
 
